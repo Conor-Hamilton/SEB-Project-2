@@ -159,7 +159,7 @@ We were particularly proud of the CharacterModal component. It dynamically updat
 
 ## Key Learnings/Takeaways
 - Deepened my understanding of React and what it is capable of even in a short time.
-- further understood the value of responsive design and adopting a mobile-first approach.
+- Further understood the value of responsive design and adopting a mobile-first approach.
 
 
 ## Bugs
